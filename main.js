@@ -1,8 +1,8 @@
-import blog from "https://deno.land/x/blog/blog.tsx";
+import blog from "https://deno.land/x/deno_blog_fork@0.3.11/blog.tsx";
 
 blog({
     author: "ashish",
-    title: "",
+    title: "t // j",
     description: "just a place to dump my occasional thoughts.",
     avatar: "https://avatars.githubusercontent.com/u/68690233?v=4",
     avatarClass: "rounded-full",
@@ -14,4 +14,5 @@ blog({
     ],
     lang: "en",
     timezone: "en-US",
+    background: "#171819",
   });
