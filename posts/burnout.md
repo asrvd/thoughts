@@ -9,4 +9,4 @@ burnout sucks. it sucks even more when you have a new project in mind and your m
 
 at the end of day, i was not at all productive cus i hate studying (has exams in the last week of this month), i spend almost all day just watching random coding/developing related videos, listening to songs and some random things, i also tried to make a static web app using astro in afternoon and got frustrated af (cursed astro a lot for crashing the dev server every time i made an error). 
 
-what i want to say is burnout sucks and i don't even understand it, getting a burnout doing something which you liek to do is so weird. but again it's not like i have a magical potion to cure it so i would just go with the flow for now, it should be gone soon (hopefully).
+what i want to say is burnout sucks and i don't even understand it, getting a burnout while doing something which you like to do is so weird. but again it's not like i have a magical potion to cure it so i would just go with the flow for now, it should be gone soon (hopefully).
