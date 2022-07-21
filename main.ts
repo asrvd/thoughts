@@ -1,6 +1,4 @@
-import blog, {
-  redirects,
-} from "https://deno.land/x/deno_blog_fork@0.3.11/blog.tsx";
+import blog from "https://deno.land/x/deno_blog_fork@0.3.11/blog.tsx";
 
 blog({
   author: "ashish",
@@ -29,9 +27,4 @@ blog({
   lang: "en",
   timezone: "en-US",
   background: "#171819",
-  middlewares: [
-    redirects({
-      "/catto": "https://api.thecatapi.com/v1/images/search",
-    }),
-  ],
 });
