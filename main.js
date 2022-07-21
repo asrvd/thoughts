@@ -8,9 +8,9 @@ blog({
     avatarClass: "rounded-full",
     links: [
       { title: "email", url: "mailto:asheeshh@duck.com" },
-      { title: "github", url: "https://github.com/asheeeshh" },
+      { title: "github", url: "https://github.com/asrvd" },
       { title: "twitter", url: "https://twitter.com/_asheeshh" },
-      { title: "instagram", url: "https://www.instagram.com/_asheeshh/" },
+      { title: "instagram", url: "https://www.instagram.com/asrvd_/" },
     ],
     lang: "en",
     timezone: "en-US",
